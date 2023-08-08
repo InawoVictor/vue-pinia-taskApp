@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Buy some milk",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "Dress the bed",
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "title": "Become a billionaire before time",
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "Study the code base",
+      "isFav": true
+    },
+    {
+      "id": 5,
+      "title": "Go home",
+      "isFav": false
+    },
+    {
+      "title": "Learn nuxt",
+      "isFav": true,
+      "id": 655
+    }
+  ]
+}
